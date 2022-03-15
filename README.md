@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 Since stats are cool:
 
-![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuudlman&count_private=true&hide_rank=true)
+[![github stats](https://github-readme-stats.vercel.app/api?username=nuudlman&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuudlman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nuudlman&show_icons=true&theme=dark&hide=html,css&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
