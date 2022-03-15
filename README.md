@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Since stats are cool:
+
+![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuudlman&count_private=true&hide_rank=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuudlman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
