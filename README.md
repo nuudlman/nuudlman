@@ -1,4 +1,4 @@
-this is mostly an archive of past projects, as I have now moved to [sr.ht](https://sr.ht/~nuudlman/)
+this is mostly an archive of past projects, as I have now moved to [sr.ht](https://git.sr.ht/~nuudlman/)
 
 
 <!--
